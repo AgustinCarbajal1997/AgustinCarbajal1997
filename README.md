@@ -1,9 +1,39 @@
-### Hi there 👋
+### Hi there 👋, Hi, I´m Agustín Carbajal
 
-<!--
-**AgustinCarbajal1997/AgustinCarbajal1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I'm a Full Stack developer mainly working with the MERN Stack and developing mobile applications using React Native. Additionally, I have experience in developing backend applications in Golang and cloud services such as AWS and GCP.
 
-Here are some ideas to get you started:
+🔭 I am currently working at Freemoni as a Full Stack Developer and CoderHouse as a tutor coordinator in React Native and Backend (NodeJs) courses.
+
+🌱 My experience in Freemoni S.A. (1 year 6 months):
+
+  - Design and development of scalable mobile applications using React Native, making use of the atomic design pattern and TypeScript. Integration of   third-party libraries and REST APIs, Firebase SDKs, push notification services, and Redux for state management. Experienced in deploying applications on both Play Store and App Store. Proficient in migrating Ionic Cordova applications to React Native. Highly skilled in developing high-performance web applications using ReactJS and NextJS, with a focus on utilizing SSR, SSG, and ISR, serverless functions, and deployment on both Vercel and AWS.
+  
+  - Experience working with a focus on maintaining and developing new features for a NodeJS-based backend application using the Express framework and TypeScript. Proficient in Firebase services such as Firestore, Cloud Storage, and Auth. Knowledge of deploying on Firebase cloud functions. Familiar to the integration of external payment systems to create a subscription based service for users.
+  
+  - Experience in designing and implementing REST APIs using Golang and Clean Architecture. Proficient in using AWS Aurora (postgres) for database management and integrating payment gateways such as Stripe, PayPal and Mercado Pago. Integration of NEM blockchain for mosaic transactions and document notarization. Utilization of Docker for application deployment and maintenance on AWS EC2 instances. Committed to delivering high-quality and scalable software solutions.
+  
+ 
+🌱 My experience in Coderhouse S.A. (1 year 9 months):
+
+- Redux - Redux Saga - Redux Thunk
+- React Query - Caching
+- Firebase - API Rest integrations
+- Device Features - Geo Location - Camera - Qr Scan 
+- SQLite
+- Docker AWS 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-%23764ABC)
+![jest](https://img.shields.io/badge/-jest-%23b73c0e)
+![Golang](https://img.shields.io/badge/-Golang-blue)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![AWS](https://img.shields.io/badge/-aws-%231572B6?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Node](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Express](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
