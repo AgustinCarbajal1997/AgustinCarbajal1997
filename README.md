@@ -30,8 +30,11 @@
 ![Golang](https://img.shields.io/badge/-Golang-blue)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AWS](https://img.shields.io/badge/-aws-%231572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Node](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Express](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![AWS](https://img.shields.io/badge/-AWS-yellow)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Node](https://img.shields.io/badge/-Node-brightgreen)
+![Express](https://img.shields.io/badge/-Express-brightgreen)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-red)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
+                                                    Contact me: <a href="https://www.linkedin.com/in/agustin-carbajal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
