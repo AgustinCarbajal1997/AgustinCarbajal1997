@@ -37,4 +37,13 @@
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-red)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
-                                                    Contact me: <a href="https://www.linkedin.com/in/agustin-carbajal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<div align="center">
+
+<i>Contact me:</i><br>
+
+<a href="https://www.linkedin.com/in/agustin-carbajal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+</div>
+
+                                                   
