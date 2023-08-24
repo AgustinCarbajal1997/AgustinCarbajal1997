@@ -2,7 +2,11 @@
 
 ⚡ I'm a Full Stack developer mainly working with the MERN Stack and developing mobile applications using React Native. Additionally, I have experience in developing backend applications in Golang and cloud services such as AWS and GCP.
 
-🔭 I am currently working at [Freemoni](https://www.linkedin.com/company/freemoni// "Freemoni") as a Full Stack Developer and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses.
+🔭 I am currently working at [OpenDev Pro](https://www.linkedin.com/company/opendevpro// "OpenDev Pro") as a Full Stack Developer and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses.
+
+🌱 My experience in OpenDev Pro (6 months):
+
+- Design and development of scalable mobile applications using React Native, making use of the atomic design pattern and TypeScript. Integration of third-party libraries and REST APIs, Firebase SDKs, SSE Events, WebSockets, push notification services, and Redux for state management. Experienced in deploying applications on both Play Store and App Store. Proficient in migrating Ionic Cordova applications to React Native. Highly skilled in developing high-performance web applications using ReactJS and NextJS, with a focus on utilizing SSR, SSG, and ISR, serverless functions, and deployment on both Vercel and AWS.
 
 🌱 My experience in Freemoni S.A. (1 year 6 months):
 
@@ -13,7 +17,7 @@
   - Experience in designing and implementing REST APIs using Golang and Clean Architecture. Proficient in using AWS Aurora (postgres) for database management and integrating payment gateways such as Stripe, PayPal and Mercado Pago. Integration of NEM blockchain for mosaic transactions and document notarization. Utilization of Docker for application deployment and maintenance on AWS EC2 instances. Committed to delivering high-quality and scalable software solutions.
   
  
-🌱 My experience in Coderhouse S.A. (1 year 9 months):
+🌱 My experience in Coderhouse S.A. (2 years):
 
 - Redux - Redux Saga - Redux Thunk
 - React Query - Caching
