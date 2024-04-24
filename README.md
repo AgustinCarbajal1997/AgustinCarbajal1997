@@ -2,7 +2,7 @@
 
 ⚡ I'm a Full Stack developer mainly working with the MERN Stack and developing mobile applications using React Native. Additionally, I have experience in developing backend applications in Golang and cloud services such as AWS and GCP.
 
-🔭 I am currently working at [OpenDev Pro](https://www.linkedin.com/company/opendevpro// "OpenDev Pro") as a Full Stack Developer and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses.
+🔭 I am currently working at [OpenDev Pro](https://www.linkedin.com/company/opendevpro// "OpenDev Pro") as a Full Stack Developer (React Native & NodeJS) and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses.
 
 🌱 My experience in OpenDev Pro - Errepar SA (1 year 1 month):
 
