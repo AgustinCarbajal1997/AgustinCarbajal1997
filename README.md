@@ -6,7 +6,15 @@
 
 🌱 My experience in OpenDev Pro - Errepar SA (1 year 4 month): 
 
-- Design and development of scalable mobile applications using React Native, making use of the atomic design pattern and TypeScript. Integration of third-party libraries and REST APIs, Firebase SDKs, SSE Events, WebSockets, push notification services, and Redux for state management. Experienced in deploying applications on both Play Store and App Store. Proficient in migrating Ionic Cordova applications to React Native. Highly skilled in developing high-performance web applications using ReactJS and NextJS, with a focus on utilizing SSR, SSG, and ISR, serverless functions, and deployment on both Vercel and AWS.
+- Push Notifications (Firebase SDK Admin - Single & multicast & Topic Notifications - APNs IOS)
+- Server Sent Events
+- Internal Testing (Play Store) & Testflight w/ Xcode (Apple Developer)
+- App publication on the App Store and Play Store
+- Native Modules (Android & IOS)
+- Presigned URLs (Optimization of heavy file upload to AWS S3 Buckets)
+- Device Features (Camera, Gallery, Geolocation, Wifi & 4G detection, Audio Recorder)
+- Unit Testing
+- Redux, Thunk, React Query
 
 🌱 My experience in Freemoni S.A. (1 year 4 months):
 
@@ -17,7 +25,7 @@
   - Experience in designing and implementing REST APIs using Golang and Clean Architecture. Proficient in using AWS Aurora (postgres) for database management and integrating payment gateways such as Stripe, PayPal and Mercado Pago. Integration of NEM blockchain for mosaic transactions and document notarization. Utilization of Docker for application deployment and maintenance on AWS EC2 instances. Committed to delivering high-quality and scalable software solutions.
   
  
-🌱 My experience in Coderhouse S.A. (2 years):
+🌱 My experience in Coderhouse S.A. (2 years 11 months):
 
 - Redux - Redux Saga - Redux Thunk
 - React Query - Caching
