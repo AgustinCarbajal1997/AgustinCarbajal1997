@@ -2,7 +2,7 @@
    
 ⚡ I'm a Full Stack developer mainly working with mobile applications using React Native, Flutter, SwiftUI & Kotlin (Jetpack Compose). Additionally, I have experience in developing backend applications and cloud services such as AWS and GCP.
 
-🔭 I am currently working at [OpenDev Pro]("https://www.linkedin.com/company/errepar") as a Full Stack Developer (React Native & NodeJS) and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses. 
+🔭 I am currently working at [OpenDev Pro](https://www.linkedin.com/company/errepar// "Errepar S.A.") as a Full Stack Developer (React Native & NodeJS) and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses. 
 
 🌱 My experience in OpenDev Pro - Errepar SA (4 months): 
 
