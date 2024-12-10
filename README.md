@@ -4,7 +4,19 @@
 
 🔭 I am currently working at [OpenDev Pro](https://www.linkedin.com/company/opendevpro// "OpenDev Pro") as a Full Stack Developer (React Native & NodeJS) and [Coderhouse](https://www.linkedin.com/school/coderhouse// "Coderhouse") as a tutor coordinator in React Native and Backend (NodeJs) courses. 
 
-🌱 My experience in OpenDev Pro - Errepar SA (1 year 7 month): 
+🌱 My experience in OpenDev Pro - Errepar SA (4 months): 
+
+- Push Notifications (Firebase SDK Admin - Single & multicast & Topic Notifications - APNs IOS)
+- Server Sent Events
+- Internal Testing (Play Store) & Testflight w/ Xcode (Apple Developer)
+- App publication on the App Store and Play Store
+- Native Modules (Android & IOS)
+- Presigned URLs (Optimization of heavy file upload to AWS S3 Buckets)
+- Device Features (Camera, Gallery, Geolocation, Wifi & 4G detection, Audio Recorder)
+- Unit Testing
+- Redux, Thunk, React Query
+
+🌱 My experience in OpenDev Pro (1 year 6 month): 
 
 - Push Notifications (Firebase SDK Admin - Single & multicast & Topic Notifications - APNs IOS)
 - Server Sent Events
